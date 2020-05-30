@@ -1,0 +1,2 @@
+# motivation
+motivtaional thought
