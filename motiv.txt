@@ -9,7 +9,7 @@ Never Fails
      Be like  a drug,let them die for you.
      Prove them wrong.
      
-    <table>
+    
       <tr>
         <th> TYPE </th>
         <th> GOAL </th>
