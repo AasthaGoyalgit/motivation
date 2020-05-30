@@ -1,0 +1,30 @@
+Set Goal
+WorK Hard
+Never Fails 
+   Don't count days make the days count.
+    Rise above the storm and you will find the sunshine
+        
+     Make each day your masterpiece.
+     Never let your fear decide your fate.
+     Prove them wrong.
+    <table>
+      <tr>
+        <th> TYPE </th>
+        <th> GOAL </th>
+        <th> FEAR </th>
+      </tr>
+      <tr>
+        <td> The Innocent </td>
+        <td> Happiness</td>
+        <td> Punishment  </td>
+      </tr>
+      <tr>
+        <td> The Orphan </td>
+         <td> Belonging </td>
+         <td> Exclusion </td>
+      </tr>
+      <tr>
+         <td>The Hero </td>
+         <td> Change World </td>
+         <td> Weakness </td>
+      </tr>
